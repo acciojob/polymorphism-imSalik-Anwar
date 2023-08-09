@@ -2,13 +2,13 @@ package com.driver;
 
 public class Main {
     public static class Product{
-        public void product(int x, int y){
+        public int product(int x, int y){
 
         }
-        public void product(int x, int y, int z){
+        public int product(int x, int y, int z){
 
         }
-        public void product(double x, double y) {
+        public int product(double x, double y) {
 
         }
     }
